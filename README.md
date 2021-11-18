@@ -1,4 +1,4 @@
-# Prefill Commit Messages with Ticket Number from Branch for Intellij, PHPStorm, Webstorm, etc.
+# Intellij, PHPStorm, Webstorm, etc. - Prefill Commit Messages with Ticket Number from Branch
 
 If you use Intellij, PHPStorm, Webstorm, etc. + a ticket system, this solution might be helpful for you, to spice up your commit messages 🔥🌶️
 
