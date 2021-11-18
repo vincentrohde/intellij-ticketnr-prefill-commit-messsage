@@ -1,6 +1,6 @@
 # Intellij, PHPStorm, PyCharm, Webstorm, etc. - Prefill Commit Messages with Ticket Number from Branch
 
-If you use Intellij, PHPStorm, Webstorm, etc. + a ticket system, this solution might be helpful for you, to spice up your commit messages 🔥🌶️
+If you use Intellij, PHPStorm, PyCharm, Webstorm, etc. + a ticket system, this solution might be helpful for you, to spice up your commit messages 🔥🌶️
 
 You will install a custom Intellij plugin and use a regex. When you commit your changes, the commit message will be automatically prefilled with the ticket number you provided in your branch.
 
